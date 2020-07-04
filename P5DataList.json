@@ -1,0 +1,1892 @@
+[
+    {
+        "index": 1,
+        "name": "Abbadon",
+        "arcana": "Judgement",
+        "level": 74,
+        "stats": [51, 38, 58, 43, 39],
+        "elems": ["ab", "ab", "-", "-", "-", "-", "wk", "wk", "-", "ab"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/1/10/AbaddonSMT.jpg/revision/latest/scale-to-width-down/340?cb=20080802172603"
+    },
+    {
+        "index": 2,
+        "name": "Agathion",
+        "arcana": "Chariot",
+        "level": 3,
+        "stats": [3, 4, 5, 7, 3],
+        "elems": ["-", "rs", "-", "-", "rs", "wk", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/2/24/Agathion.png/revision/latest/scale-to-width-down/340?cb=20160717164617"
+    },
+    {
+        "index": 3,
+        "name": "Alice",
+        "arcana": "Death",
+        "level": 79,
+        "stats": [43, 59, 40, 57, 45],
+        "elems": ["-", "-", "-", "-", "-", "-", "rs", "rs", "wk", "rp"],
+        "image": "https://img2.freepng.es/20180412/hhe/kisspng-shin-megami-tensei-nocturne-shin-megami-tensei-p-alice-5acf30ef838b62.0506519015235279195388.jpg"
+    },
+    {
+        "index": 4,
+        "name": "Ame-no-Uzume",
+        "arcana": "Lovers",
+        "level": 29,
+        "stats": [15, 22, 19, 20, 18],
+        "elems": ["-", "-", "ab", "-", "-", "-", "wk", "-", "-", "-"],
+        "image": "https://i.pinimg.com/originals/5b/d3/6f/5bd36f0a8f11fdc1852be75edc330be4.jpg"
+    },
+    {
+        "index": 5,
+        "name": "Ananta",
+        "arcana": "Star",
+        "level": 43,
+        "stats": [24, 30, 31, 26, 25],
+        "elems": ["-", "-", "-", "ab", "wk", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/94/Ananta.png/revision/latest/scale-to-width-down/340?cb=20090630112555"
+    },
+    {
+        "index": 6,
+        "name": "Andras",
+        "arcana": "Devil",
+        "level": 10,
+        "stats": [5, 9, 7, 10, 6],
+        "elems": ["-", "wk", "wk", "rs", "-", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/95/AndrasSMT.jpg/revision/latest/scale-to-width-down/340?cb=20080803014831"
+    },
+    {
+        "index": 7,
+        "name": "Angel",
+        "arcana": "Justice",
+        "level": 12,
+        "stats": [7, 9, 9, 9, 9],
+        "elems": ["-", "-", "-", "-", "rs", "-", "-", "-", "nu", "wk"],
+        "image": "https://i.pinimg.com/236x/52/23/f7/5223f7a58587b25574d0a4b435872815.jpg"
+    },
+    {
+        "index": 8,
+        "name": "Anubis",
+        "arcana": "Judgement",
+        "level": 37,
+        "stats": [23, 26, 24, 22, 23],
+        "elems": ["-", "-", "-", "-", "-", "-", "-", "-", "nu", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/f/f7/Anubis2.JPG/revision/latest?cb=20190328231858"
+    },
+    {
+        "index": 9,
+        "name": "Anzu",
+        "arcana": "Hierophant",
+        "level": 25,
+        "stats": [14, 18, 15, 21, 14],
+        "elems": ["-", "wk", "-", "-", "rs", "rp", "-", "wk", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/2/28/333_-_Anzu.jpg/revision/latest/scale-to-width-down/340?cb=20120428204738"
+    },
+    {
+        "index": 10,
+        "name": "Apsaras",
+        "arcana": "Priestess",
+        "level": 11,
+        "stats": [7, 11, 6, 10, 6],
+        "elems": ["-", "-", "-", "rs", "wk", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/6/60/ApsarasP4.png/revision/latest/scale-to-width-down/340?cb=20160321131013&path-prefix=es"
+    },
+    {
+        "index": 11,
+        "name": "Ara mitama",
+        "arcana": "Chariot",
+        "level": 31,
+        "stats": [20, 19, 20, 20, 21],
+        "elems": ["rs", "-", "-", "wk", "-", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/b/bc/Ara_Mitama.jpg/revision/latest/scale-to-width-down/340?cb=20190402145014"
+    },
+    {
+        "index": 12,
+        "name": "Arahabaki",
+        "arcana": "Hermit",
+        "level": 35,
+        "stats": [21, 23, 22, 24, 22],
+        "elems": ["rp", "rp", "-", "-", "-", "-", "wk", "wk", "rs", "rs"],
+        "image": "https://i.pinimg.com/originals/44/21/e2/4421e26eb28ea8be614b87c21e9b4063.jpg"
+    },
+    {
+        "index": 13,
+        "name": "Archangel",
+        "arcana": "Justice",
+        "level": 16,
+        "stats": [13, 10, 13, 12, 7],
+        "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "nu", "wk"],
+        "image": "https://i.pinimg.com/originals/ee/85/41/ee854166cf746e9f92b14b7fad643d50.png"
+    },
+    {
+        "index": 14,
+        "name": "Ardha",
+        "arcana": "Temperance",
+        "level": 84,
+        "stats": [54, 56, 55, 54, 40],
+        "elems": ["rs", "-", "-", "nu", "nu", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/2/2a/SMTII-Alder.jpg/revision/latest?cb=20090108063515"
+    },
+    {
+        "index": 15,
+        "name": "Ariadne",
+        "arcana": "Fortune",
+        "level": 30,
+        "stats": [23, 19, 20, 17, 18],
+        "elems": ["-", "rs", "-", "-", "-", "-", "wk", "nu", "rs", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/1/1a/Ariadne.jpg/revision/latest/scale-to-width-down/340?cb=20120328202134"
+    },
+    {
+        "index": 16,
+        "name": "Ariadne Picaro",
+        "arcana": "Fortune",
+        "level": 42,
+        "stats": [36, 23, 29, 24, 21],
+        "elems": ["-", "rs", "-", "-", "-", "-", "wk", "nu", "rs", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/1/1a/Ariadne.jpg/revision/latest/scale-to-width-down/340?cb=20120328202134"
+    },
+    {
+        "index": 17,
+        "name": "Arsene",
+        "arcana": "Fool",
+        "level": 1,
+        "stats": [2, 2, 2, 3, 1],
+        "elems": ["-", "-", "-", "wk", "-", "-", "-", "-", "wk", "rs"],
+        "image": "https://http2.mlstatic.com/figura-de-arsene-de-persona-5-aoshima-bunka-kyozai-pe-01-D_NQ_NP_606866-MLM31957249727_082019-F.jpg"
+    },
+    {
+        "index": 18,
+        "name": "Asterius",
+        "arcana": "Fortune",
+        "level": 56,
+        "stats": [43, 43, 32, 32, 25],
+        "elems": ["-", "-", "rs", "wk", "-", "-", "rs", "-", "-", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/03/Asterios.png/revision/latest/scale-to-width-down/340?cb=20120327225333"
+    },
+    {
+        "index": 19,
+        "name": "Asterius Picaro",
+        "arcana": "Fortune",
+        "level": 62,
+        "stats": [46, 46, 36, 36, 29],
+        "elems": ["-", "-", "rs", "wk", "-", "-", "rs", "-", "-", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/03/Asterios.png/revision/latest/scale-to-width-down/340?cb=20120327225333"
+    },
+    {
+        "index": 20,
+        "name": "Asura-Ou",
+        "arcana": "Sun",
+        "level": 76,
+        "stats": [52, 48, 51, 49, 35],
+        "elems": ["-", "-", "nu", "-", "-", "-", "wk", "rp", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/a/ad/AsuraSMT.jpg/revision/latest/scale-to-width-down/340?cb=20080706000754"
+    },
+    {
+        "index": 21,
+        "name": "Atropos",
+        "arcana": "Fortune",
+        "level": 39,
+        "stats": [23, 30, 22, 27, 22],
+        "elems": ["-", "-", "wk", "-", "-", "nu", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/91/Atropos2.jpg/revision/latest/scale-to-width-down/340?cb=20080708181552"
+    },
+    {
+        "index": 22,
+        "name": "Attis",
+        "arcana": "Hanged Man",
+        "level": 82,
+        "stats": [56, 50, 48, 51, 48],
+        "elems": ["-", "-", "nu", "-", "-", "rp", "-", "-", "-", "wk"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/1/1b/Atys.png/revision/latest/scale-to-width-down/340?cb=20190328170809"
+    },
+    {
+        "index": 23,
+        "name": "Baal",
+        "arcana": "Emperor",
+        "level": 75,
+        "stats": [48, 50, 47, 47, 40],
+        "elems": ["-", "-", "rs", "-", "-", "ab", "-", "-", "rs", "rs"],
+        "image": "https://pm1.narvii.com/6544/c4a1cd9a564f7ac4c17127a0fecb3b8dc67481e0_hq.jpg"
+    },
+    {
+        "index": 24,
+        "name": "Baphomet",
+        "arcana": "Devil",
+        "level": 58,
+        "stats": [34, 42, 36, 38, 31],
+        "elems": ["-", "-", "rs", "-", "-", "-", "-", "-", "wk", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/3/33/Baphomet.jpg/revision/latest/scale-to-width-down/340?cb=20080802231114"
+    },
+    {
+        "index": 25,
+        "name": "Barong",
+        "arcana": "Emperor",
+        "level": 52,
+        "stats": [33, 35, 33, 37, 25],
+        "elems": ["-", "rs", "-", "-", "rs", "wk", "-", "-", "nu", "wk"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/1/14/Barong3.JPG/revision/latest?cb=20190328174958"
+    },
+    {
+        "index": 26,
+        "name": "Beelzebub",
+        "arcana": "Devil",
+        "level": 84,
+        "stats": [55, 60, 54, 56, 34],
+        "elems": ["-", "-", "ab", "-", "-", "-", "-", "-", "wk", "rp"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/7/7c/KazumaKaneko-Beelzebub.jpg/revision/latest/scale-to-width-down/340?cb=20090219082929"
+    },
+    {
+        "index": 27,
+        "name": "Belial",
+        "arcana": "Devil",
+        "level": 68,
+        "stats": [45, 41, 46, 43, 36],
+        "elems": ["-", "-", "-", "-", "-", "-", "-", "-", "-", "nu"],
+        "image": "https://img1.freepng.es/20180414/buw/kisspng-shin-megami-tensei-devil-survivor-shin-megami-ten-demon-5ad21f3f83cfc4.6474590815237199995399.jpg"
+    },
+    {
+        "index": 28,
+        "name": "Belphegor",
+        "arcana": "Tower",
+        "level": 37,
+        "stats": [25, 27, 24, 23, 19],
+        "elems": ["-", "-", "wk", "rs", "rs", "-", "-", "rs", "-", "rp"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/4/42/Belphegor2.jpg/revision/latest/scale-to-width-down/340?cb=20080806040210"
+    },
+    {
+        "index": 29,
+        "name": "Berith",
+        "arcana": "Hierophant",
+        "level": 9,
+        "stats": [8, 6, 7, 8, 5],
+        "elems": ["-", "nu", "rs", "wk", "-", "-", "-", "-", "-", "-"],
+        "image": "https://i.pinimg.com/474x/17/8e/78/178e789799cef87d7f2ec5a9f891a508.jpg"
+    },
+    {
+        "index": 30,
+        "name": "Bicorn",
+        "arcana": "Hermit",
+        "level": 4,
+        "stats": [5, 3, 3, 5, 3],
+        "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "-", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/4/48/KWBicorn.jpg/revision/latest/scale-to-width-down/340?cb=20110904050857"
+    },
+    {
+        "index": 31,
+        "name": "Bishamonten",
+        "arcana": "Hierophant",
+        "level": 67,
+        "stats": [49, 37, 42, 45, 35],
+        "elems": ["-", "-", "ab", "wk", "-", "-", "-", "-", "rs", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/e/ed/Bishamon.png/revision/latest?cb=20120420041100"
+    },
+    {
+        "index": 32,
+        "name": "Black Frost",
+        "arcana": "Fool",
+        "level": 67,
+        "stats": [44, 46, 41, 42, 35],
+        "elems": ["-", "-", "rp", "ab", "-", "-", "-", "nu", "-", "rp"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/9e/BlackFrostSMT3.jpg/revision/latest/scale-to-width-down/340?cb=20080806195923"
+    },
+    {
+        "index": 33,
+        "name": "Black Ooze",
+        "arcana": "Moon",
+        "level": 29,
+        "stats": [19, 18, 20, 16, 21],
+        "elems": ["rs", "rs", "-", "rs", "wk", "-", "wk", "-", "wk", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/6/68/184_Black_Ooze.jpg/revision/latest/scale-to-width-down/340?cb=20100514013933"
+    },
+    {
+        "index": 34,
+        "name": "Black Rider",
+        "arcana": "Tower",
+        "level": 59,
+        "stats": [38, 43, 37, 45, 30],
+        "elems": ["-", "-", "wk", "ab", "-", "-", "-", "-", "rs", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/9d/BlackRider2.jpg/revision/latest/scale-to-width-down/340?cb=20090516165842"
+    },
+    {
+        "index": 35,
+        "name": "Bugs",
+        "arcana": "Fool",
+        "level": 49,
+        "stats": [35, 33, 30, 32, 24],
+        "elems": ["-", "-", "-", "-", "-", "-", "rs", "wk", "-", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/b/b2/Bogus_Soul_Hackers.JPG/revision/latest/scale-to-width-down/340?cb=20190328203136"
+    },
+    {
+        "index": 36,
+        "name": "Byakko",
+        "arcana": "Temperance",
+        "level": 49,
+        "stats": [32, 32, 31, 32, 27],
+        "elems": ["-", "-", "wk", "ab", "-", "-", "-", "wk", "-", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/4/40/ByakkoSMT2.jpg/revision/latest/scale-to-width-down/340?cb=20080808014542"
+    },
+    {
+        "index": 37,
+        "name": "Cerberus",
+        "arcana": "Chariot",
+        "level": 55,
+        "stats": [39, 35, 32, 39, 27],
+        "elems": ["-", "-", "ab", "wk", "-", "-", "-", "rs", "-", "-"],
+        "image": "https://cdnen.samurai-gamers.com/wp-content/uploads/2017/03/28014110/cerberus-persona.png"
+    },
+    {
+        "index": 38,
+        "name": "Chernobog",
+        "arcana": "Death",
+        "level": 62,
+        "stats": [40, 37, 39, 38, 39],
+        "elems": ["-", "rs", "wk", "ab", "nu", "-", "-", "-", "wk", "rp"],
+        "image": "https://i.pinimg.com/originals/83/01/ca/8301ca94e87978dc23322c979535ede9.png"
+    },
+    {
+        "index": 39,
+        "name": "Chi You",
+        "arcana": "Chariot",
+        "level": 86,
+        "stats": [54, 56, 53, 52, 50],
+        "elems": ["rs", "rs", "-", "-", "-", "-", "nu", "wk", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/7/7b/Chi_You.jpg/revision/latest/scale-to-width-down/340?cb=20130825111422"
+    },
+    {
+        "index": 40,
+        "name": "Choronzon",
+        "arcana": "Magician",
+        "level": 28,
+        "stats": [16, 19, 19, 18, 19],
+        "elems": ["-", "-", "ab", "-", "-", "-", "-", "-", "wk", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/1/11/D30307Choronzon.jpg/revision/latest/scale-to-width-down/340?cb=20120205234010"
+    },
+    {
+        "index": 41,
+        "name": "Clotho",
+        "arcana": "Fortune",
+        "level": 26,
+        "stats": [14, 19, 17, 20, 15],
+        "elems": ["-", "-", "-", "wk", "-", "nu", "-", "wk", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/9c/Clotho2.jpg/revision/latest/scale-to-width-down/340?cb=20080708181634"
+    },
+    {
+        "index": 42,
+        "name": "Crystal Skull",
+        "arcana": "Fool",
+        "level": 50,
+        "stats": [50, 50, 50, 50, 50],
+        "elems": ["rs", "nu", "rp", "rp", "rp", "rp", "rp", "rp", "-", "rp"],
+        "image": "https://i.ytimg.com/vi/hktRxT9vLsY/maxresdefault.jpg"
+    },
+    {
+        "index": 43,
+        "name": "Cu Chulainn",
+        "arcana": "Star",
+        "level": 67,
+        "stats": [47, 36, 44, 47, 34],
+        "elems": ["rs", "rs", "-", "-", "wk", "rp", "-", "-", "nu", "-"],
+        "image": "https://i.pinimg.com/originals/04/85/97/048597da5c07343d476a1e573d19d23b.jpg"
+    },
+    {
+        "index": 44,
+        "name": "Cybele",
+        "arcana": "Priestess",
+        "level": 73,
+        "stats": [44, 48, 45, 51, 38],
+        "elems": ["-", "-", "rs", "-", "wk", "-", "-", "-", "nu", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/f/f8/Cybele.png/revision/latest/scale-to-width-down/340?cb=20190328232050"
+    },
+    {
+        "index": 45,
+        "name": "Daisoujou",
+        "arcana": "Hierophant",
+        "level": 42,
+        "stats": [22, 33, 24, 25, 29],
+        "elems": ["-", "rs", "-", "-", "-", "-", "-", "-", "nu", "wk"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/0b/SMT-Daisoujou.jpg/revision/latest/scale-to-width-down/340?cb=20090620064114"
+    },
+    {
+        "index": 46,
+        "name": "Dakini",
+        "arcana": "Empress",
+        "level": 50,
+        "stats": [34, 32, 34, 28, 29],
+        "elems": ["-", "-", "rs", "-", "-", "-", "-", "-", "-", "-"],
+        "image": "https://i.pinimg.com/originals/9c/1a/13/9c1a13561e9acd7dc4c1d0e8add50159.jpg"
+    },
+    {
+        "index": 47,
+        "name": "Decarabia",
+        "arcana": "Fool",
+        "level": 32,
+        "stats": [21, 23, 19, 22, 18],
+        "elems": ["wk", "-", "rp", "-", "-", "-", "-", "rs", "-", "rs"],
+        "image": "https://i.pinimg.com/originals/84/2f/ea/842fea3aed063a82c9ed56ef4fe5dda2.jpg"
+    },
+    {
+        "index": 48,
+        "name": "Dionysus",
+        "arcana": "Fool",
+        "level": 61,
+        "stats": [35, 41, 38, 40, 36],
+        "elems": ["-", "-", "-", "-", "rp", "-", "-", "-", "rs", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/a/a2/Dionysius.jpg/revision/latest/scale-to-width-down/340?cb=20190328152501"
+    },
+    {
+        "index": 49,
+        "name": "Dominion",
+        "arcana": "Justice",
+        "level": 68,
+        "stats": [46, 47, 45, 48, 40],
+        "elems": ["-", "wk", "-", "-", "-", "-", "-", "rp", "nu", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/8/84/308_-_Dominion.jpg/revision/latest?cb=20120418231312"
+    },
+    {
+        "index": 50,
+        "name": "Eligor",
+        "arcana": "Emperor",
+        "level": 16,
+        "stats": [12, 10, 13, 10, 10],
+        "elems": ["-", "rs", "rs", "-", "wk", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/0f/KWEligor.jpg/revision/latest?cb=20110902054823"
+    },
+    {
+        "index": 51,
+        "name": "Emperor's Amulet",
+        "arcana": "Hanged Man",
+        "level": 35,
+        "stats": [35, 35, 35, 35, 35],
+        "elems": ["rs", "nu", "-", "ab", "ab", "ab", "ab", "ab", "nu", "nu"],
+        "image": "https://i.ytimg.com/vi/K39NT5hwZYY/maxresdefault.jpg"
+    },
+    {
+        "index": 52,
+        "name": "Phoenix",
+        "arcana": "Hierophant",
+        "level": 22,
+        "stats": [14, 15, 15, 18, 11],
+        "elems": ["-", "-", "-", "rs", "wk", "nu", "-", "-", "-", "-"],
+        "image": "https://cdnen.samurai-gamers.com/wp-content/uploads/2017/03/26221745/feng-huang-persona1-300x258.jpg"
+    },
+    {
+        "index": 53,
+        "name": "Flauros",
+        "arcana": "Devil",
+        "level": 25,
+        "stats": [19, 14, 18, 18, 13],
+        "elems": ["-", "-", "nu", "wk", "-", "rs", "-", "rs", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/8/8c/545_-_Flauros.jpg/revision/latest/scale-to-width-down/340?cb=20120530212227"
+    },
+    {
+        "index": 54,
+        "name": "Forneus",
+        "arcana": "Hierophant",
+        "level": 63,
+        "stats": [41, 39, 40, 42, 34],
+        "elems": ["-", "-", "-", "ab", "wk", "-", "nu", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/c/ce/549_-_Forneus.jpg/revision/latest?cb=20130816051424"
+    },
+    {
+        "index": 55,
+        "name": "Fortuna",
+        "arcana": "Fortune",
+        "level": 46,
+        "stats": [23, 32, 29, 34, 27],
+        "elems": ["-", "-", "nu", "-", "wk", "nu", "-", "-", "-", "-"],
+        "image": "https://cdnen.samurai-gamers.com/wp-content/uploads/2017/03/27012957/Fortuna-195x300.jpg"
+    },
+    {
+        "index": 56,
+        "name": "Futsunushi",
+        "arcana": "Magician",
+        "level": 76,
+        "stats": [54, 48, 47, 49, 37],
+        "elems": ["rs", "-", "-", "-", "-", "-", "-", "wk", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/f/ff/P4-Futsunushi.png/revision/latest/scale-to-width-down/340?cb=20190330162003"
+    },
+    {
+        "index": 57,
+        "name": "Fuu-Ki",
+        "arcana": "Star",
+        "level": 23,
+        "stats": [14, 17, 16, 15, 14],
+        "elems": ["-", "-", "-", "-", "wk", "ab", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/d/d1/Fuu-ki.jpg/revision/latest/scale-to-width-down/340?cb=20080808145928"
+    },
+    {
+        "index": 58,
+        "name": "Gabriel",
+        "arcana": "Temperance",
+        "level": 77,
+        "stats": [43, 51, 48, 54, 42],
+        "elems": ["-", "-", "-", "-", "-", "-", "nu", "-", "ab", "-"],
+        "image": "https://vignette.wikia.nocookie.net/persona4/images/d/da/Gabriel.png/revision/latest/scale-to-width-down/340?cb=20091017154902"
+    },
+    {
+        "index": 59,
+        "name": "Ganesha",
+        "arcana": "Sun",
+        "level": 53,
+        "stats": [39, 31, 37, 33, 26],
+        "elems": ["rs", "-", "-", "-", "-", "ab", "wk", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/e/e1/GaneshaSMT.jpg/revision/latest/scale-to-width-down/340?cb=20080802034455"
+    },
+    {
+        "index": 60,
+        "name": "Garuda",
+        "arcana": "Star",
+        "level": 52,
+        "stats": [30, 36, 29, 39, 29],
+        "elems": ["-", "wk", "-", "-", "-", "rs", "-", "-", "rp", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/5/55/GarudaP4.png/revision/latest/scale-to-width-down/340?cb=20080808220944"
+    },
+    {
+        "index": 61,
+        "name": "Genbu",
+        "arcana": "Temperance",
+        "level": 7,
+        "stats": [5, 6, 7, 6, 4],
+        "elems": ["-", "-", "-", "nu", "wk", "-", "rs", "-", "-", "-"],
+        "image": "https://i.pinimg.com/originals/1f/7d/04/1f7d047d08def7cbe2dcf35259fc3e07.png"
+    },
+    {
+        "index": 62,
+        "name": "Girimehkala",
+        "arcana": "Moon",
+        "level": 44,
+        "stats": [36, 24, 32, 32, 15],
+        "elems": ["rp", "rp", "rs", "-", "-", "-", "-", "-", "wk", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/4/4a/KazumaKaneko-Girimehkala.jpg/revision/latest/scale-to-width-down/340?cb=20090404041239"
+    },
+    {
+        "index": 63,
+        "name": "Hanuman",
+        "arcana": "Star",
+        "level": 64,
+        "stats": [43, 38, 40, 40, 38],
+        "elems": ["-", "-", "-", "wk", "-", "-", "rs", "-", "rs", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/f/fd/HanumanSMT.jpg/revision/latest/scale-to-width-down/340?cb=20080802034006"
+    },
+    {
+        "index": 64,
+        "name": "Hariti",
+        "arcana": "Empress",
+        "level": 40,
+        "stats": [24, 29, 25, 26, 23],
+        "elems": ["-", "-", "-", "-", "-", "wk", "rs", "-", "rs", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/8/8a/Hariti.JPG/revision/latest?cb=20190330151311"
+    },
+    {
+        "index": 65,
+        "name": "Hecatoncheires",
+        "arcana": "Hanged Man",
+        "level": 42,
+        "stats": [29, 25, 30, 25, 24],
+        "elems": ["-", "rs", "-", "-", "-", "-", "-", "-", "wk", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/f/f7/SMT2Hecatoncheir.jpg/revision/latest/scale-to-width-down/340?cb=20090619115547"
+    },
+    {
+        "index": 66,
+        "name": "Hell Biker",
+        "arcana": "Death",
+        "level": 39,
+        "stats": [26, 27, 24, 30, 17],
+        "elems": ["-", "-", "rp", "-", "-", "rs", "-", "-", "wk", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/9b/447.jpg/revision/latest/scale-to-width-down/340?cb=20110617131548"
+    },
+    {
+        "index": 67,
+        "name": "High Pixie",
+        "arcana": "Fool",
+        "level": 16,
+        "stats": [8, 14, 10, 13, 10],
+        "elems": ["-", "wk", "-", "-", "rs", "rs", "-", "wk", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/f/f5/Smt2highpixie.jpg/revision/latest?cb=20140605020736"
+    },
+    {
+        "index": 68,
+        "name": "Hope Diamond",
+        "arcana": "Death",
+        "level": 40,
+        "stats": [40, 40, 40, 40, 40],
+        "elems": ["rs", "nu", "rp", "rp", "rp", "-", "rp", "rp", "nu", "nu"],
+        "image": "https://cdn.vox-cdn.com/thumbor/G9kLS4Z4w2HPNI9ZeMxh1EWZNIc=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/54461515/Madarame_Palace_Screenshot_2017_04_09_00_03_50.0.png"
+    },
+    {
+        "index": 69,
+        "name": "Horus",
+        "arcana": "Sun",
+        "level": 49,
+        "stats": [30, 32, 32, 35, 25],
+        "elems": ["-", "-", "wk", "-", "nu", "-", "-", "-", "rp", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/2/2b/KazumaKaneko-Horus.jpg/revision/latest/scale-to-width-down/340?cb=20090315020228"
+    },
+    {
+        "index": 70,
+        "name": "Hua Po",
+        "arcana": "Hanged Man",
+        "level": 9,
+        "stats": [4, 10, 4, 8, 8],
+        "elems": ["-", "wk", "rp", "wk", "-", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/2/2e/HuaPo.jpg/revision/latest/scale-to-width-down/340?cb=20170725061101"
+    },
+    {
+        "index": 71,
+        "name": "Incubus",
+        "arcana": "Devil",
+        "level": 5,
+        "stats": [4, 6, 4, 5, 3],
+        "elems": ["-", "wk", "-", "-", "rs", "-", "-", "-", "wk", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/3/3f/Incubus2.jpg/revision/latest/scale-to-width-down/340?cb=20190331170439"
+    },
+    {
+        "index": 72
+        "name": "Inugami",
+        "arcana": "Hanged Man",
+        "level": 14,
+        "stats": [11, 9, 9, 12, 8],
+        "elems": ["-", "-", "nu", "-", "-", "wk", "-", "-", "-", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/1/1a/478_-_Inugami.jpg/revision/latest/scale-to-width-down/340?cb=20120527043427"
+    },
+    {
+        "index": 73,
+        "name": "Ippon-Datara",
+        "arcana": "Hermit",
+        "level": 13,
+        "stats": [11, 7, 14, 6, 8],
+        "elems": ["-", "-", "rs", "wk", "-", "rp", "-", "-", "rs", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/8/8a/Ippondatara.jpg/revision/latest/scale-to-width-down/340?cb=20190328151705"
+    },
+    {
+        "index": 74,
+        "name": "Ishtar",
+        "arcana": "Lovers",
+        "level": 85,
+        "stats": [48, 59, 49, 58, 48],
+        "elems": ["-", "-", "-", "-", "nu", "wk", "-", "-", "-", "-"],
+        "image": "https://i.pinimg.com/originals/8b/2a/2e/8b2a2ed997780a5a50d99c33baf1e686.png"
+    },
+    {
+        "index": 75,
+        "name": "Isis",
+        "arcana": "Priestess",
+        "level": 26,
+        "stats": [15, 21, 16, 18, 15],
+        "elems": ["-", "-", "-", "-", "-", "-", "wk", "-", "nu", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/94/IsisP4.jpg/revision/latest/scale-to-width-down/340?cb=20080816014131"
+    },
+    {
+        "index": 76,
+        "name": "Izanagi",
+        "arcana": "Fool",
+        "level": 20,
+        "stats": [14, 13, 13, 14, 13],
+        "elems": ["-", "-", "-", "-", "rs", "wk", "-", "-", "-", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/01/P4-Izanagi.jpg/revision/latest/scale-to-width-down/340?cb=20190330055945"
+    },
+    {
+        "index": 77,
+        "name": "Izanagi Picaro",
+        "arcana": "Fool",
+        "level": 23,
+        "stats": [16, 15, 15, 16, 14],
+        "elems": ["-", "-", "-", "-", "nu", "wk", "-", "-", "-", "nu"],
+        "image": "https://cdnen.samurai-gamers.com/wp-content/uploads/2019/01/11221426/sg-p5-izanagi-picaro-stats.jpg"
+    },
+    {
+        "index": 78,
+        "name": "Jack Frost",
+        "arcana": "Magician",
+        "level": 11,
+        "stats": [8, 9, 7, 9, 7],
+        "elems": ["-", "-", "wk", "nu", "-", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/e/e3/Smtjack.png/revision/latest/scale-to-width-down/340?cb=20151215185207"
+    },
+    {
+        "index": 79,
+        "name": "Jack-o'-Lantern",
+        "arcana": "Magician",
+        "level": 2,
+        "stats": [2, 3, 3, 3, 2],
+        "elems": ["-", "wk", "ab", "wk", "-", "wk", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/5/5f/Pyrojackoriginal.jpg/revision/latest/scale-to-width-down/340?cb=20080610012604"
+    },
+    {
+        "index": 80,
+        "name": "Jatayu",
+        "arcana": "Tower",
+        "level": 32,
+        "stats": [18, 21, 20, 27, 17],
+        "elems": ["-", "-", "-", "-", "-", "ab", "wk", "-", "-", "-"],
+        "image": "https://gamepedia.cursecdn.com/dx2shinmegamitensei_gamepedia_en/thumb/f/f1/Jatayu.png/1200px-Jatayu.png"
+    },
+    {
+        "index": 81,
+        "name": "Jikokuten",
+        "arcana": "Temperance",
+        "level": 25,
+        "stats": [19, 12, 19, 17, 15],
+        "elems": ["rs", "-", "-", "-", "-", "-", "-", "-", "rs", "wk"],
+        "image": "https://gamepedia.cursecdn.com/dx2shinmegamitensei_gamepedia_en/thumb/8/8b/Jikokuten.png/1200px-Jikokuten.png"
+    },
+    {
+        "index": 82,
+        "name": "Kaguya",
+        "arcana": "Moon",
+        "level": 16,
+        "stats": [11, 15, 12, 11, 6],
+        "elems": ["-", "-", "wk", "-", "-", "rs", "-", "-", "nu", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/d/d8/P4AU_Kaguya.png/revision/latest/scale-to-width-down/340?cb=20140724141237"
+    },
+    {
+        "index": 83,
+        "name": "Kaguya Picaro",
+        "arcana": "Moon",
+        "level": 25,
+        "stats": [17, 20, 19, 15, 11],
+        "elems": ["-", "-", "wk", "-", "-", "-", "-", "-", "nu", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/0e/Kaguya.png/revision/latest?cb=20140605161211"
+    },
+    {
+        "index": 84,
+        "name": "Kaiwan",
+        "arcana": "Star",
+        "level": 36,
+        "stats": [23, 26, 24, 22, 20],
+        "elems": ["-", "nu", "-", "-", "-", "-", "nu", "wk", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/0d/Kaiwan.jpg/revision/latest/scale-to-width-down/340?cb=20080702163355"
+    },
+    {
+        "index": 85,
+        "name": "Kali",
+        "arcana": "Empress",
+        "level": 77,
+        "stats": [53, 45, 46, 53, 41],
+        "elems": ["-", "-", "nu", "-", "-", "-", "rp", "-", "-", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/8/8e/KaliSMT.jpg/revision/latest/scale-to-width-down/340?cb=20080802025039"
+    },
+    {
+        "index": 86,
+        "name": "Kelpie",
+        "arcana": "Strength",
+        "level": 6,
+        "stats": [5, 5, 5, 6, 4],
+        "elems": ["-", "-", "-", "rs", "wk", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/3/37/Kelpie.jpg/revision/latest/scale-to-width-down/340?cb=20080803024539"
+    },
+    {
+        "index": 87,
+        "name": "Kikuri-Hime",
+        "arcana": "Priestess",
+        "level": 40,
+        "stats": [22, 31, 24, 28, 22],
+        "elems": ["-", "-", "wk", "-", "-", "nu", "-", "-", "rs", "-"],
+        "image": "https://i.pinimg.com/originals/cd/6c/3b/cd6c3b194c662d4f970dbc6964428c95.jpg"
+    },
+    {
+        "index": 88,
+        "name": "Kin-ki",
+        "arcana": "Chariot",
+        "level": 25,
+        "stats": [21, 13, 21, 15, 12],
+        "elems": ["rs", "rs", "-", "-", "-", "-", "wk", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/e/e8/Kin-ki.jpg/revision/latest/scale-to-width-down/340?cb=20080808145635"
+    },
+    {
+        "index": 89,
+        "name": "King Frost",
+        "arcana": "Emperor",
+        "level": 61,
+        "stats": [38, 39, 45, 33, 35],
+        "elems": ["-", "-", "-", "ab", "-", "-", "-", "-", "nu", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/b/b2/King_FrostP3.png/revision/latest/scale-to-width-down/340?cb=20120507030016"
+    },
+    {
+        "index": 90,
+        "name": "Kodama",
+        "arcana": "Star",
+        "level": 11,
+        "stats": [7, 11, 8, 10, 4],
+        "elems": ["-", "-", "wk", "rs", "-", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/8/80/180px-Kodama.jpg/revision/latest/scale-to-width-down/340?cb=20190415230426"
+    },
+    {
+        "index": 91,
+        "name": "Koh-i-Noor",
+        "arcana": "Priestess",
+        "level": 25,
+        "stats": [25, 25, 25, 25, 25],
+        "elems": ["rs", "rs", "rs", "rs", "rs", "rs", "rs", "-", "nu", "nu"],
+        "image": "https://i.ytimg.com/vi/Y1iu0mTyMUo/maxresdefault.jpg"
+    },
+    {
+        "index": 92,
+        "name": "Kohryu",
+        "arcana": "Hierophant",
+        "level": 76,
+        "stats": [43, 51, 50, 53, 38],
+        "elems": ["-", "-", "-", "-", "rp", "-", "wk", "nu", "nu", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/1/1d/Kohryu.png/revision/latest/scale-to-width-down/340?cb=20190329183714"
+    },
+    {
+        "index": 93,
+        "name": "Koppa Tengu",
+        "arcana": "Temperance",
+        "level": 11,
+        "stats": [7, 8, 8, 11, 6],
+        "elems": ["-", "-", "-", "wk", "-", "rs", "-", "-", "wk", "-"],
+        "image": "https://i.pinimg.com/736x/9e/54/97/9e5497124d499174197b1012cdbd6e5c.jpg"
+    },
+    {
+        "index": 94,
+        "name": "Koropokguru",
+        "arcana": "Hermit",
+        "level": 9,
+        "stats": [5, 8, 6, 9, 6],
+        "elems": ["-", "rs", "wk", "rs", "-", "rs", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/9a/Koropokkuru.jpg/revision/latest/scale-to-width-down/340?cb=20190328211619"
+    },
+    {
+        "index": 95,
+        "name": "Koumokuten",
+        "arcana": "Hermit",
+        "level": 49,
+        "stats": [37, 32, 34, 31, 25],
+        "elems": ["rs", "-", "-", "wk", "-", "-", "-", "-", "rs", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/95/18_-_Komokuten.jpg/revision/latest/scale-to-width-down/340?cb=20120325011542"
+    },
+    {
+        "index": 96,
+        "name": "Kumbhanda",
+        "arcana": "Hermit",
+        "level": 42,
+        "stats": [29, 25, 27, 26, 26],
+        "elems": ["-", "-", "nu", "wk", "-", "-", "-", "-", "-", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/a/a6/Kumbhanda-1-1.jpg/revision/latest/scale-to-width-down/340?cb=20190328171530"
+    },
+    {
+        "index": 97,
+        "name": "Kurama Tengu",
+        "arcana": "Hermit",
+        "level": 56,
+        "stats": [34, 38, 34, 42, 27],
+        "elems": ["-", "-", "-", "wk", "-", "rp", "-", "-", "rs", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/2/20/Kurama2.jpg/revision/latest/scale-to-width-down/340?cb=20080708185322"
+    },
+    {
+        "index": 98,
+        "name": "Kushinada",
+        "arcana": "Lovers",
+        "level": 42,
+        "stats": [24, 30, 26, 28, 25],
+        "elems": ["-", "-", "-", "-", "-", "-", "-", "wk", "rp", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/3/38/Kushinada.jpg/revision/latest/scale-to-width-down/340?cb=20190329183851"
+    },
+    {
+        "index": 99,
+        "name": "Kushi MItama",
+        "arcana": "Strength",
+        "level": 14,
+        "stats": [8, 12, 11, 9, 9],
+        "elems": ["-", "-", "wk", "-", "-", "rs", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/6/68/KusiMitamaP4.png/revision/latest/scale-to-width-down/340?cb=20190402144809"
+    },
+    {
+        "index": 100,
+        "name": "Lachesis",
+        "arcana": "Fortune",
+        "level": 34,
+        "stats": [18, 25, 22, 25, 19],
+        "elems": ["-", "-", "-", "nu", "wk", "rs", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/d/db/Lachesis2.jpg/revision/latest/scale-to-width-down/340?cb=20080708181619"
+    },
+    {
+        "index": 101,
+        "name": "Lakshmi",
+        "arcana": "Fortune",
+        "level": 69,
+        "stats": [40, 47, 43, 46, 38],
+        "elems": ["-", "-", "wk", "rs", "-", "-", "-", "-", "rs", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/3/37/1674255-lakshmi.jpg/revision/latest?cb=20190328224812"
+    },
+    {
+        "index": 102,
+        "name": "Lamia",
+        "arcana": "Empress",
+        "level": 26,
+        "stats": [21, 15, 18, 19, 12],
+        "elems": ["-", "rs", "-", "wk", "rs", "-", "-", "-", "-", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/f/f4/LamiaSMT.jpg/revision/latest/window-crop/width/200/x-offset/393/y-offset/0/window-width/1289/window-height/1288?cb=20080802033523"
+    },
+    {
+        "index": 103,
+        "name": "Leanan Sidhe",
+        "arcana": "Lovers",
+        "level": 19,
+        "stats": [9, 17, 12, 16, 10],
+        "elems": ["-", "-", "wk", "-", "-", "rs", "rs", "-", "-", "-"],
+        "image": "https://samurai-gamers.com/wp-content/uploads/2017/02/lenan-sidhe.jpg"
+    },
+    {
+        "index": 104,
+        "name": "Legion",
+        "arcana": "Fool",
+        "level": 38,
+        "stats": [24, 24, 30, 23, 20],
+        "elems": ["rs", "rs", "rs", "-", "-", "-", "rs", "-", "wk", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/d/de/LegionSMT.jpg/revision/latest/scale-to-width-down/340?cb=20080709034919"
+    },
+    {
+        "index": 105,
+        "name": "Lilim",
+        "arcana": "Devil",
+        "level": 32,
+        "stats": [17, 23, 18, 25, 20],
+        "elems": ["-", "wk", "-", "rs", "-", "wk", "-", "-", "wk", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/7/75/Lilim.png/revision/latest?cb=20080705011849"
+    },
+    {
+        "index": 106,
+        "name": "Lilith",
+        "arcana": "Moon",
+        "level": 60,
+        "stats": [33, 43, 37, 39, 35],
+        "elems": ["-", "-", "wk", "rp", "-", "-", "-", "-", "-", "nu"],
+        "image": "https://i.redd.it/2rvgj43d63sz.jpg"
+    },
+    {
+        "index": 107,
+        "name": "Lucifer",
+        "arcana": "Star",
+        "level": 93,
+        "stats": [61, 59, 59, 56, 51],
+        "elems": ["-", "-", "-", "-", "-", "-", "-", "-", "wk", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/6/65/P3FES-Lucifer.png/revision/latest/scale-to-width-down/340?cb=20080724101117"
+    },
+    {
+        "index": 108,
+        "name": "Mada",
+        "arcana": "Tower",
+        "level": 85,
+        "stats": [52, 51, 58, 56, 45],
+        "elems": ["-", "-", "ab", "wk", "-", "-", "rs", "nu", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/3/38/Mada2.jpg/revision/latest/scale-to-width-down/340?cb=20151130235912"
+    },
+    {
+        "index": 109,
+        "name": "Magatsu-Izanagi",
+        "arcana": "Tower",
+        "level": 44,
+        "stats": [37, 35, 32, 25, 10],
+        "elems": ["-", "rs", "-", "-", "-", "-", "-", "wk", "nu", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/2/26/P5_Magatsu-Izanagi_and_Magatsu-Izanagi_Thief_God.jpg/revision/latest?cb=20160928205340"
+    },
+    {
+        "index": 110,
+        "name": "Magatsu-Izanagi Picaro",
+        "arcana": "Tower",
+        "level": 48,
+        "stats": [40, 38, 35, 27, 11],
+        "elems": ["-", "rs", "-", "-", "-", "-", "-", "wk", "nu", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/2/26/P5_Magatsu-Izanagi_and_Magatsu-Izanagi_Thief_God.jpg/revision/latest?cb=20160928205340"
+    },
+    {
+        "index": 111,
+        "name": "Makami",
+        "arcana": "Temperance",
+        "level": 15,
+        "stats": [13, 12, 8, 11, 8],
+        "elems": ["-", "-", "-", "-", "wk", "rs", "-", "rs", "nu", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/7/71/Makami_-_Nocturne.jpg/revision/latest/scale-to-width-down/340?cb=20080920172200"
+    },
+    {
+        "index": 112,
+        "name": "Mandrake",
+        "arcana": "Death",
+        "level": 3,
+        "stats": [2, 3, 3, 4, 4],
+        "elems": ["-", "-", "wk", "-", "rs", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/2/20/Mandrake_%282%29.jpg/revision/latest/scale-to-width-down/340?cb=20190331041045"
+    },
+    {
+        "index": 113,
+        "name": "Mara",
+        "arcana": "Tower",
+        "level": 73,
+        "stats": [47, 46, 49, 45, 39],
+        "elems": ["-", "nu", "ab", "wk", "-", "-", "-", "-", "rs", "rp"],
+        "image": "https://cdnen.samurai-gamers.com/wp-content/uploads/2017/03/29224532/mara2.jpg"
+    },
+    {
+        "index": 114,
+        "name": "Matador",
+        "arcana": "Death",
+        "level": 19,
+        "stats": [12, 13, 12, 16, 11],
+        "elems": ["-", "-", "-", "-", "wk", "nu", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/d/d6/KazumaKaneko-Matador.jpg/revision/latest/scale-to-width-down/340?cb=20081005053358"
+    },
+    {
+        "index": 115,
+        "name": "Melchizedek",
+        "arcana": "Justice",
+        "level": 60,
+        "stats": [37, 38, 41, 39, 32],
+        "elems": ["-", "-", "-", "-", "-", "wk", "rs", "-", "ab", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/06/Melchizedek.jpg/revision/latest/scale-to-width-down/340?cb=20190328225952"
+    },
+    {
+        "index": 116,
+        "name": "Messiah",
+        "arcana": "Judgement",
+        "level": 81,
+        "stats": [50, 50, 50, 50, 50],
+        "elems": ["-", "-", "rs", "rs", "rs", "rs", "rs", "rs", "rp", "wk"],
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP2611-CUSA05877_00-ADDCONTENT000019/1579285996000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000"
+    },
+    {
+        "index": 117,
+        "name": "Messiah Picaro",
+        "arcana": "Judgement",
+        "level": 90,
+        "stats": [56, 56, 55, 55, 55],
+        "elems": ["-", "-", "rs", "rs", "rs", "rs", "rs", "rs", "rp", "wk"],
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/US/en/999/UP2611-CUSA05877_00-ADDCONTENT000019/1579285996000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000"
+    },
+    {
+        "index": 118,
+        "name": "Metatron",
+        "arcana": "Justice",
+        "level": 89,
+        "stats": [54, 61, 60, 57, 42],
+        "elems": ["-", "-", "-", "-", "wk", "rp", "ab", "ab", "-", "wk"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/4/45/MetatronSH.JPG/revision/latest/scale-to-width-down/340?cb=20151130234045"
+    },
+    {
+        "index": 119,
+        "name": "Michael",
+        "arcana": "Judgement",
+        "level": 87,
+        "stats": [57, 54, 55, 56, 46],
+        "elems": ["-", "rs", "-", "-", "-", "-", "-", "-", "rp", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/5/54/MichaelSMT2.jpg/revision/latest?cb=20080807184336"
+    },
+    {
+        "index": 120,
+        "name": "Mitra",
+        "arcana": "Temperance",
+        "level": 33,
+        "stats": [19, 26, 19, 24, 18],
+        "elems": ["-", "-", "-", "nu", "wk", "-", "-", "-", "nu", "-"],
+        "image": "https://pm1.narvii.com/6443/dfbfdc3eaf9d655842cc9aad61b0b6e5cb8cb036_hq.jpg"
+    },
+    {
+        "index": 121,
+        "name": "Mithras",
+        "arcana": "Sun",
+        "level": 39,
+        "stats": [27, 25, 27, 25, 20],
+        "elems": ["rs", "-", "ab", "-", "-", "-", "wk", "nu", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/c/c2/Mithras.jpg/revision/latest/scale-to-width-down/340?cb=20190328220145"
+    },
+    {
+        "index": 122,
+        "name": "Mokoi",
+        "arcana": "Death",
+        "level": 9,
+        "stats": [9, 5, 6, 10, 4],
+        "elems": ["-", "-", "-", "-", "rs", "wk", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/08/Mokoi.png/revision/latest/scale-to-width-down/340?cb=20190328215338"
+    },
+    {
+        "index": 123,
+        "name": "Moloch",
+        "arcana": "Hanged Man",
+        "level": 60,
+        "stats": [32, 45, 42, 31, 37],
+        "elems": ["-", "-", "rp", "wk", "rs", "rs", "ab", "-", "-", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/05/MolochNINE.jpg/revision/latest/scale-to-width-down/340?cb=20110617124924"
+    },
+    {
+        "index": 124,
+        "name": "Mot",
+        "arcana": "Death",
+        "level": 72,
+        "stats": [43, 51, 48, 42, 39],
+        "elems": ["-", "rs", "-", "-", "ab", "wk", "-", "-", "-", "rp"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/e/eb/Mot.jpg/revision/latest/scale-to-width-down/340?cb=20190328171656"
+    },
+    {
+        "index": 125,
+        "name": "Mother Harlot",
+        "arcana": "Empress",
+        "level": 80,
+        "stats": [55, 48, 46, 49, 49],
+        "elems": ["-", "-", "-", "-", "rp", "-", "-", "-", "wk", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/e/ee/TheHarlot2.jpg/revision/latest/scale-to-width-down/340?cb=20080709020611"
+    },
+    {
+        "index": 126,
+        "name": "Mothman",
+        "arcana": "Moon",
+        "level": 33,
+        "stats": [21, 24, 16, 24, 21],
+        "elems": ["-", "wk", "-", "-", "nu", "-", "rs", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/e/e0/Mothmanof.png/revision/latest/scale-to-width-down/340?cb=20190328182520"
+    },
+    {
+        "index": 127,
+        "name": "Naga",
+        "arcana": "Hermit",
+        "level": 24,
+        "stats": [15, 17, 15, 17, 15],
+        "elems": ["-", "-", "-", "-", "nu", "wk", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/3/35/Naga.png/revision/latest/scale-to-width-down/340?cb=20190329184245"
+    },
+    {
+        "index": 128,
+        "name": "Narcissus",
+        "arcana": "Lovers",
+        "level": 50,
+        "stats": [27, 36, 29, 35, 30],
+        "elems": ["-", "-", "wk", "-", "nu", "rs", "-", "-", "rs", "-"],
+        "image": "https://samurai-gamers.com/wp-content/uploads/2017/02/narcissus.jpg"
+    },
+    {
+        "index": 129,
+        "name": "Nebiros",
+        "arcana": "Devil",
+        "level": 62,
+        "stats": [39, 40, 42, 36, 36],
+        "elems": ["-", "-", "-", "-", "-", "-", "rs", "-", "wk", "rp"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/e/e9/547_-_Nebiros.jpg/revision/latest?cb=20190329202252"
+    },
+    {
+        "index": 130,
+        "name": "Neko Shogun",
+        "arcana": "Star",
+        "level": 30,
+        "stats": [19, 20, 19, 21, 18],
+        "elems": ["rs", "-", "-", "-", "rs", "wk", "-", "-", "nu", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/5/57/Neko_Shogun.png/revision/latest/scale-to-width-down/340?cb=20190328084418"
+    },
+    {
+        "index": 131,
+        "name": "Nekomata",
+        "arcana": "Magician",
+        "level": 17,
+        "stats": [13, 10, 12, 15, 8],
+        "elems": ["-", "-", "-", "-", "wk", "-", "rs", "-", "-", "-"],
+        "image": "https://res.cloudinary.com/teepublic/image/private/s--7exFQF7r--/t_Preview/b_rgb:feffff,c_limit,f_jpg,h_630,q_90,w_630/v1533238789/production/designs/2971260_0.jpg"
+    },
+    {
+        "index": 132,
+        "name": "Nigi Mitama",
+        "arcana": "Temperance",
+        "level": 20,
+        "stats": [12, 14, 14, 15, 12],
+        "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "rs", "rs"],
+        "image": "https://cdnen.samurai-gamers.com/wp-content/uploads/2017/03/28012343/NigiMitama_2.jpg"
+    },
+    {
+        "index": 133,
+        "name": "Norn",
+        "arcana": "Fortune",
+        "level": 52,
+        "stats": [30, 38, 33, 34, 28],
+        "elems": ["-", "-", "-", "rs", "-", "ab", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/a/af/Sh_norn.jpg/revision/latest/scale-to-width-down/340?cb=20190329191034"
+    },
+    {
+        "index": 134,
+        "name": "Nue",
+        "arcana": "Moon",
+        "level": 20,
+        "stats": [16, 10, 17, 14, 10],
+        "elems": ["-", "-", "wk", "rs", "-", "-", "-", "-", "-", "nu"],
+        "image": "https://i.pinimg.com/originals/9b/9c/54/9b9c54b9fe2b896ab58f9c22f708f2f7.jpg"
+    },
+    {
+        "index": 135,
+        "name": "Obariyon",
+        "arcana": "Fool",
+        "level": 8,
+        "stats": [7, 3, 9, 8, 4],
+        "elems": ["rs", "-", "-", "-", "wk", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/7/7b/ObariyonP4.PNG/revision/latest/scale-to-width-down/340?cb=20190328211118"
+    },
+    {
+        "index": 136,
+        "name": "Oberon",
+        "arcana": "Emperor",
+        "level": 66,
+        "stats": [40, 44, 43, 43, 35],
+        "elems": ["-", "-", "-", "-", "rs", "-", "nu", "wk", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/c/cc/541_-_Oberon.jpg/revision/latest/scale-to-width-down/340?cb=20120427191415"
+    },
+    {
+        "index": 137,
+        "name": "Odin",
+        "arcana": "Emperor",
+        "level": 82,
+        "stats": [53, 52, 54, 52, 42],
+        "elems": ["-", "-", "-", "-", "nu", "ab", "-", "-", "rp", "rp"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/7/75/OdinKW.jpg/revision/latest/scale-to-width-down/340?cb=20080612231621"
+    },
+    {
+        "index": 138,
+        "name": "Okuninushi",
+        "arcana": "Emperor",
+        "level": 44,
+        "stats": [30, 28, 29, 28, 24],
+        "elems": ["-", "-", "-", "-", "rp", "wk", "nu", "wk", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/05/Okuninushi2.jpg/revision/latest/scale-to-width-down/340?cb=20190501013035"
+    },
+    {
+        "index": 139,
+        "name": "Ongyo-Ki",
+        "arcana": "Hermit",
+        "level": 75,
+        "stats": [56, 42, 47, 48, 39],
+        "elems": ["rs", "rs", "-", "-", "-", "-", "-", "-", "rp", "rp"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/c/ce/Ongyo-ki.jpg/revision/latest/scale-to-width-down/340?cb=20080808150436"
+    },
+    {
+        "index": 140,
+        "name": "Oni",
+        "arcana": "Strength",
+        "level": 19,
+        "stats": [17, 8, 16, 13, 10],
+        "elems": ["rs", "rs", "-", "-", "-", "-", "-", "-", "-", "-"],
+        "image": "https://cdnen.samurai-gamers.com/wp-content/uploads/2017/03/29051506/Oni-persona-224x300.jpg"
+    },
+    {
+        "index": 141,
+        "name": "Onmoraki",
+        "arcana": "Moon",
+        "level": 12,
+        "stats": [9, 12, 7, 10, 5],
+        "elems": ["-", "wk", "rs", "-", "-", "-", "-", "-", "wk", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/5/54/Onmoraki.jpg/revision/latest/scale-to-width-down/340?cb=20190328180423"
+    },
+    {
+        "index": 142,
+        "name": "Orlov",
+        "arcana": "Strength",
+        "level": 30,
+        "stats": [30, 30, 30, 30, 30],
+        "elems": ["rs", "nu", "nu", "nu", "-", "nu", "nu", "nu", "nu", "nu"],
+        "image": "https://cdn.vox-cdn.com/thumbor/mCYNX_LPpcLNIURBuwZW4P8yJds=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/64062592/November_Screenshot_2017_05_08_16_18_55.0.png"
+    },
+    {
+        "index": 143,
+        "name": "Orobas",
+        "arcana": "Hierophant",
+        "level": 17,
+        "stats": [11, 14, 15, 12, 6],
+        "elems": ["-", "-", "-", "-", "-", "rs", "-", "-", "wk", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/6/68/OrobasSMT.jpg/revision/latest/scale-to-width-down/340?cb=20080803012607"
+    },
+    {
+        "index": 144,
+        "name": "Orpheus",
+        "arcana": "Fool",
+        "level": 26,
+        "stats": [17, 17, 17, 17, 17],
+        "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "rs", "wk"],
+        "image": "https://pm1.narvii.com/6552/62562bf9c60e8d23956059ef304d0d79265a87cb_hq.jpg"
+    },
+    {
+        "index": 145,
+        "name": "Orpheus Picaro",
+        "arcana": "Fool",
+        "level": 29,
+        "stats": [19, 19, 19, 19, 18],
+        "elems": ["-", "-", "-", "-", "wk", "-", "-", "-", "rs", "wk"],
+        "image": "https://pm1.narvii.com/6552/62562bf9c60e8d23956059ef304d0d79265a87cb_hq.jpg"
+    },
+    {
+        "index": 146,
+        "name": "Orthrus",
+        "arcana": "Hanged Man",
+        "level": 21,
+        "stats": [16, 14, 14, 19, 7],
+        "elems": ["-", "-", "ab", "wk", "-", "-", "-", "rs", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/3/38/679px-OrthrusSMT.jpg/revision/latest/scale-to-width-down/340?cb=20100724133903"
+    },
+    {
+        "index": 147,
+        "name": "Ose",
+        "arcana": "Fool",
+        "level": 42,
+        "stats": [32, 24, 25, 31, 21],
+        "elems": ["-", "-", "rs", "-", "-", "-", "-", "-", "wk", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/01/NOse.jpg/revision/latest/scale-to-width-down/340?cb=20080705003049"
+    },
+    {
+        "index": 148,
+        "name": "Pale Rider",
+        "arcana": "Death",
+        "level": 53,
+        "stats": [34, 34, 33, 39, 26],
+        "elems": ["-", "-", "-", "-", "-", "rs", "-", "-", "wk", "rp"],
+        "image": "https://i.pinimg.com/originals/6b/e2/5e/6be25e1847eafc4c04147b5cfd5cb00a.jpg"
+    },
+    {
+        "index": 149,
+        "name": "Parvati",
+        "arcana": "Lovers",
+        "level": 56,
+        "stats": [33, 39, 33, 39, 31],
+        "elems": ["-", "-", "-", "rp", "-", "-", "rs", "-", "rs", "wk"],
+        "image": "https://i.pinimg.com/originals/a7/6a/c5/a76ac505c5062d693c37b350aa6c3715.jpg"
+    },
+    {
+        "index": 150,
+        "name": "Pazuzu",
+        "arcana": "Devil",
+        "level": 43,
+        "stats": [29, 30, 27, 26, 24],
+        "elems": ["-", "-", "-", "-", "-", "rs", "-", "-", "wk", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/e/ea/PazuzuSMT2.jpg/revision/latest/scale-to-width-down/340?cb=20080806165033"
+    },
+    {
+        "index": 151,
+        "name": "Pisaca",
+        "arcana": "Death",
+        "level": 29,
+        "stats": [19, 21, 21, 17, 16],
+        "elems": ["-", "-", "wk", "-", "rs", "-", "-", "-", "wk", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/7/71/Pisaca2.jpg/revision/latest/scale-to-width-down/340?cb=20101122173626"
+    },
+    {
+        "index": 152,
+        "name": "Pixie",
+        "arcana": "Lovers",
+        "level": 2,
+        "stats": [1, 3, 3, 4, 2],
+        "elems": ["-", "wk", "-", "wk", "rs", "-", "-", "-", "rs", "wk"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/f/ff/PixieSMT.jpg/revision/latest/scale-to-width-down/340?cb=20080706213635"
+    },
+    {
+        "index": 153,
+        "name": "Power",
+        "arcana": "Justice",
+        "level": 41,
+        "stats": [30, 26, 28, 25, 21],
+        "elems": ["-", "wk", "-", "-", "-", "rs", "-", "-", "nu", "wk"],
+        "image": "https://cdnen.samurai-gamers.com/wp-content/uploads/2017/02/27030940/Power-e1490598580266.png"
+    },
+    {
+        "index": 154,
+        "name": "Principality",
+        "arcana": "Justice",
+        "level": 29,
+        "stats": [17, 19, 18, 21, 19],
+        "elems": ["-", "-", "rs", "-", "-", "-", "-", "-", "nu", "wk"],
+        "image": "https://i.pinimg.com/originals/06/e4/db/06e4db593a0dfb8dcbf80893ea1eb71a.png"
+    },
+    {
+        "index": 155,
+        "name": "Queen Mab",
+        "arcana": "Magician",
+        "level": 43,
+        "stats": [23, 35, 26, 30, 22],
+        "elems": ["-", "-", "nu", "-", "rs", "wk", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/6/62/QueenMab2.jpg/revision/latest/scale-to-width-down/340?cb=20190329184007"
+    },
+    {
+        "index": 156,
+        "name": "Quetzalcoatl",
+        "arcana": "Sun",
+        "level": 63,
+        "stats": [38, 42, 41, 41, 34],
+        "elems": ["-", "-", "nu", "-", "-", "rs", "wk", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/a/a5/QuetzalcoatlSMT2.jpg/revision/latest/scale-to-width-down/340?cb=20080808015446"
+    },
+    {
+        "index": 157,
+        "name": "Raja Naga",
+        "arcana": "Temperance",
+        "level": 55,
+        "stats": [33, 37, 36, 35, 31],
+        "elems": ["-", "-", "-", "-", "nu", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/a/a0/RajaNagaSMT.jpg/revision/latest/scale-to-width-down/340?cb=20080803023506"
+    },
+    {
+        "index": 158,
+        "name": "Rakshasa",
+        "arcana": "Strength",
+        "level": 24,
+        "stats": [20, 15, 18, 17, 9],
+        "elems": ["rs", "-", "rs", "-", "-", "wk", "-", "-", "wk", "rs"],
+        "image": "https://i.pinimg.com/originals/8a/e2/3c/8ae23c19fe0e2a7b5ce39ea693e6161a.jpg"
+    },
+    {
+        "index": 159,
+        "name": "Rangda",
+        "arcana": "Magician",
+        "level": 48,
+        "stats": [28, 34, 30, 33, 26],
+        "elems": ["rp", "rp", "nu", "-", "wk", "-", "-", "-", "wk", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/5/56/Rangda.jpg/revision/latest?cb=20190328150351"
+    },
+    {
+        "index": 160,
+        "name": "Raphael",
+        "arcana": "Lovers",
+        "level": 78,
+        "stats": [57, 45, 49, 55, 35],
+        "elems": ["-", "-", "-", "ab", "-", "-", "nu", "-", "nu", "-"],
+        "image": "http://vignette4.wikia.nocookie.net/megamitensei/images/8/84/RaphaelSMT2.jpg/revision/latest?cb=20080807184021"
+    },
+    {
+        "index": 161,
+        "name": "Red Rider",
+        "arcana": "Tower",
+        "level": 41,
+        "stats": [26, 27, 25, 29, 23],
+        "elems": ["-", "-", "-", "-", "-", "-", "-", "-", "wk", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/a/a4/RedRider2.jpg/revision/latest/scale-to-width-down/340?cb=20090516185236"
+    },
+    {
+        "index": 162,
+        "name": "Regent",
+        "arcana": "Emperor",
+        "level": 10,
+        "stats": [10, 10, 10, 10, 10],
+        "elems": ["rs", "rs", "rs", "rs", "rs", "rs", "wk", "wk", "nu", "nu"],
+        "image": "https://www.mobipicker.com/wp-content/uploads/2017/04/Persona5TreasureDemon.jpg"
+    },
+    {
+        "index": 163,
+        "name": "Saki Mitama",
+        "arcana": "Lovers",
+        "level": 6,
+        "stats": [4, 6, 5, 6, 4],
+        "elems": ["-", "-", "-", "rs", "wk", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/d/dd/SakiMitamaP4.png/revision/latest/scale-to-width-down/340?cb=20190402144703"
+    },
+    {
+        "index": 164,
+        "name": "Sandalphon",
+        "arcana": "Moon",
+        "level": 75,
+        "stats": [46, 51, 49, 48, 38],
+        "elems": ["rs", "rs", "-", "-", "rs", "-", "-", "-", "rp", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/b/b5/Sandalphon.jpg/revision/latest/scale-to-width-down/340?cb=20190328223902"
+    },
+    {
+        "index": 165,
+        "name": "Sandman",
+        "arcana": "Magician",
+        "level": 24,
+        "stats": [11, 13, 14, 20, 21],
+        "elems": ["-", "-", "-", "-", "wk", "rs", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/5/50/Sandman2.jpg/revision/latest/scale-to-width-down/340?cb=20190330150356"
+    },
+    {
+        "index": 166,
+        "name": "Sarasvati",
+        "arcana": "Priestess",
+        "level": 50,
+        "stats": [30, 35, 32, 33, 27],
+        "elems": ["-", "-", "-", "nu", "rs", "-", "-", "wk", "-", "-"],
+        "image": "https://gamepedia.cursecdn.com/dx2shinmegamitensei_gamepedia_en/thumb/4/4d/Sarasvati.png/1200px-Sarasvati.png"
+    },
+    {
+        "index": 167,
+        "name": "Satan",
+        "arcana": "Judgement",
+        "level": 92,
+        "stats": [62, 59, 55, 52, 55],
+        "elems": ["-", "rs", "-", "rp", "-", "-", "-", "-", "-", "rp"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/f/f6/SatanSMT2.jpg/revision/latest/scale-to-width-down/340?cb=20080808004019"
+    },
+    {
+        "index": 168,
+        "name": "Satanael",
+        "arcana": "Fool",
+        "level": 95,
+        "stats": [63, 60, 57, 56, 56],
+        "elems": ["rs", "rs", "rs", "rs", "rs", "rs", "rs", "rs", "nu", "ab"],
+        "image": "https://i.ytimg.com/vi/jrrzds1cWaU/maxresdefault.jpg"
+    },
+    {
+        "index": 169,
+        "name": "Scathach",
+        "arcana": "Priestess",
+        "level": 45,
+        "stats": [29, 30, 28, 30, 25],
+        "elems": ["-", "-", "-", "rp", "-", "-", "-", "-", "-", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/5/5b/1150253-scathach.png/revision/latest/scale-to-width-down/340?cb=20190328222949"
+    },
+    {
+        "index": 170,
+        "name": "Seiryu",
+        "arcana": "Temperance",
+        "level": 62,
+        "stats": [38, 41, 43, 37, 34],
+        "elems": ["-", "-", "-", "rs", "-", "-", "-", "wk", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/3/38/SeiRyuSMT2.jpg/revision/latest/scale-to-width-down/340?cb=20080808003355"
+    },
+    {
+        "index": 171,
+        "name": "Setanta",
+        "arcana": "Emperor",
+        "level": 28,
+        "stats": [20, 17, 19, 18, 17],
+        "elems": ["-", "-", "-", "-", "-", "-", "wk", "rs", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/3/34/Setanta.jpg/revision/latest/scale-to-width-down/340?cb=20090531064332"
+    },
+    {
+        "index": 172,
+        "name": "Seth",
+        "arcana": "Tower",
+        "level": 51,
+        "stats": [32, 35, 30, 35, 28],
+        "elems": ["-", "-", "rp", "-", "-", "nu", "-", "-", "wk", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/3/33/SethSMT2.jpg/revision/latest/scale-to-width-down/340?cb=20080806193335"
+    },
+    {
+        "index": 173,
+        "name": "Shiisa",
+        "arcana": "Chariot",
+        "level": 16,
+        "stats": [13, 9, 12, 13, 8],
+        "elems": ["rs", "rs", "-", "-", "-", "-", "-", "-", "nu", "wk"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/a/a1/ShiisaaDS.jpg/revision/latest/scale-to-width-down/340?cb=20190331161840"
+    },
+    {
+        "index": 174,
+        "name": "Shiki-Ouji",
+        "arcana": "Chariot",
+        "level": 21,
+        "stats": [11, 15, 16, 16, 13],
+        "elems": ["nu", "nu", "-", "-", "-", "-", "-", "wk", "-", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/96/Shiki-OujiSMTN.jpg/revision/latest/scale-to-width-down/340?cb=20080816020012"
+    },
+    {
+        "index": 175,
+        "name": "Shiva",
+        "arcana": "Judgement",
+        "level": 82,
+        "stats": [55, 54, 53, 53, 38],
+        "elems": ["-", "-", "-", "nu", "rp", "-", "ab", "wk", "nu", "nu"],
+        "image": "https://img2.freepng.es/20180329/fhe/kisspng-shin-megami-tensei-strange-journey-shin-megami-te-shiva-5abd1336512c32.1584620415223406623325.jpg"
+    },
+    {
+        "index": 176,
+        "name": "Siegfried",
+        "arcana": "Strength",
+        "level": 69,
+        "stats": [51, 37, 47, 48, 31],
+        "elems": ["nu", "-", "-", "rs", "-", "-", "-", "wk", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/9f/C%C3%B3pia_de_Seigfried.png/revision/latest/scale-to-width-down/340?cb=20190328173207"
+    },
+    {
+        "index": 177,
+        "name": "Silky",
+        "arcana": "Priestess",
+        "level": 6,
+        "stats": [4, 7, 4, 5, 5],
+        "elems": ["-", "-", "wk", "rs", "wk", "-", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/0e/Silky.jpg/revision/latest/scale-to-width-down/340?cb=20190328202903"
+    },
+    {
+        "index": 178,
+        "name": "Skadi",
+        "arcana": "Priestess",
+        "level": 55,
+        "stats": [35, 39, 34, 34, 30],
+        "elems": ["-", "-", "-", "rp", "-", "-", "-", "-", "-", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/9c/KazumaKaneko-Skadi.jpg/revision/latest/scale-to-width-down/340?cb=20090413095209"
+    },
+    {
+        "index": 179,
+        "name": "Slime",
+        "arcana": "Chariot",
+        "level": 10,
+        "stats": [9, 6, 11, 6, 5],
+        "elems": ["rs", "-", "wk", "-", "-", "wk", "-", "-", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/3/38/Slime.png/revision/latest?cb=20190329183250"
+    },
+    {
+        "index": 180,
+        "name": "Sraosha",
+        "arcana": "Star",
+        "level": 80,
+        "stats": [47, 56, 45, 56, 43],
+        "elems": ["-", "-", "-", "-", "ab", "-", "-", "-", "rp", "wk"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/b/b0/1518044-sraosha.jpg/revision/latest/scale-to-width-down/340?cb=20190328150958"
+    },
+    {
+        "index": 181,
+        "name": "Stone of Scone",
+        "arcana": "Fortune",
+        "level": 20,
+        "stats": [20, 20, 20, 20, 20],
+        "elems": ["nu", "nu", "nu", "nu", "nu", "nu", "nu", "nu", "nu", "wk"],
+        "image": "https://cdn.vox-cdn.com/thumbor/MUGXOqTNhIqcpFDtfjF4bwV_rcM=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/54778431/October_Screenshot_2017_05_04_16_14_33.0.png"
+    },
+    {
+        "index": 182,
+        "name": "Succubus",
+        "arcana": "Moon",
+        "level": 7,
+        "stats": [4, 7, 5, 8, 4],
+        "elems": ["-", "wk", "rs", "-", "-", "-", "-", "-", "wk", "nu"],
+        "image": "https://i.ytimg.com/vi/ZzbeSqPgtmQ/hqdefault.jpg"
+    },
+    {
+        "index": 183,
+        "name": "Sudama",
+        "arcana": "Hermit",
+        "level": 17,
+        "stats": [9, 14, 12, 13, 10],
+        "elems": ["-", "-", "-", "wk", "-", "rp", "-", "wk", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/e/e4/Sudama.jpg/revision/latest/scale-to-width-down/340?cb=20090516181319"
+    },
+    {
+        "index": 184,
+        "name": "Sui-Ki",
+        "arcana": "Moon",
+        "level": 24,
+        "stats": [16, 15, 15, 18, 15],
+        "elems": ["-", "-", "-", "ab", "rs", "-", "-", "wk", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/1/13/Sui-ki.jpg/revision/latest/scale-to-width-down/340?cb=20080808150137"
+    },
+    {
+        "index": 185,
+        "name": "Surt",
+        "arcana": "Magician",
+        "level": 59,
+        "stats": [37, 40, 39, 35, 33],
+        "elems": ["-", "-", "ab", "wk", "-", "-", "-", "-", "-", "-"],
+        "image": "https://i.pinimg.com/originals/21/a1/e1/21a1e1706f35e434ecca46346609ca51.jpg"
+    },
+    {
+        "index": 186,
+        "name": "Suzaku",
+        "arcana": "Sun",
+        "level": 19,
+        "stats": [11, 14, 10, 18, 11],
+        "elems": ["-", "-", "ab", "wk", "-", "-", "-", "rs", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/a/af/Suzaku.jpg/revision/latest?cb=20190328230049"
+    },
+    {
+        "index": 187,
+        "name": "Take-Minakata",
+        "arcana": "Hanged Man",
+        "level": 29,
+        "stats": [20, 22, 21, 18, 13],
+        "elems": ["-", "-", "-", "-", "rp", "-", "wk", "-", "-", "rs"],
+        "image": "https://i.pinimg.com/originals/9a/78/8a/9a788ab140ac98069d0a09195007948a.jpg"
+    },
+    {
+        "index": 188,
+        "name": "Thanatos",
+        "arcana": "Death",
+        "level": 65,
+        "stats": [43, 49, 41, 38, 31],
+        "elems": ["rs", "-", "-", "-", "-", "-", "-", "-", "wk", "rp"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/9c/P5_Thanatos_and_Thanatos_Thief_God.jpg/revision/latest?cb=20160928204923"
+    },
+    {
+        "index": 189,
+        "name": "Thanathos Picaro",
+        "arcana": "Death",
+        "level": 69,
+        "stats": [45, 51, 43, 40, 35],
+        "elems": ["rs", "-", "-", "-", "-", "-", "-", "-", "wk", "rp"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/9/9c/P5_Thanatos_and_Thanatos_Thief_God.jpg/revision/latest?cb=20160928204923"
+    },
+    {
+        "index": 190,
+        "name": "Queen's Necklace",
+        "arcana": "Empress",
+        "level": 15,
+        "stats": [15, 15, 15, 15, 15],
+        "elems": ["rs", "wk", "rs", "rs", "rs", "rs", "rs", "rs", "rs", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/5/59/Queen%27s_Necklace.jpg/revision/latest?cb=20170325115558"
+    },
+    {
+        "index": 191,
+        "name": "Thor",
+        "arcana": "Chariot",
+        "level": 64,
+        "stats": [44, 39, 43, 38, 35],
+        "elems": ["rs", "-", "-", "-", "ab", "-", "wk", "-", "rs", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/2/23/Thor.jpg/revision/latest?cb=20080613190606"
+    },
+    {
+        "index": 192,
+        "name": "Thoth",
+        "arcana": "Emperor",
+        "level": 36,
+        "stats": [21, 28, 21, 24, 21],
+        "elems": ["-", "-", "-", "-", "-", "-", "wk", "nu", "nu", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/e/e3/ThothP4.jpg/revision/latest/scale-to-width-down/340?cb=20080816013424"
+    },
+    {
+        "index": 193,
+        "name": "Throne",
+        "arcana": "Justice",
+        "level": 71,
+        "stats": [42, 49, 47, 46, 36],
+        "elems": ["-", "-", "ab", "-", "-", "-", "-", "rs", "nu", "wk"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/e/e2/ThroneDS.jpg/revision/latest/scale-to-width-down/340?cb=20190331165753"
+    },
+    {
+        "index": 194,
+        "name": "Titania",
+        "arcana": "Empress",
+        "level": 56,
+        "stats": [32, 40, 35, 38, 30],
+        "elems": ["-", "-", "-", "-", "-", "-", "wk", "rs", "rs", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/persona4/images/2/24/Titania.png/revision/latest/scale-to-width-down/340?cb=20091017152434"
+    },
+    {
+        "index": 195,
+        "name": "Trumpeter",
+        "arcana": "Judgement",
+        "level": 59,
+        "stats": [33, 42, 40, 38, 31],
+        "elems": ["-", "-", "-", "ab", "rp", "-", "-", "-", "rp", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/0b/Devil_trumpeter.png/revision/latest/scale-to-width-down/340?cb=20180527215119"
+    },
+    {
+        "index": 196,
+        "name": "Tsukiyomi",
+        "arcana": "Moon",
+        "level": 50,
+        "stats": [38, 32, 33, 37, 17],
+        "elems": ["rs", "-", "-", "-", "-", "-", "-", "wk", "rs", "rp"],
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SG/en/999/JP0005-CUSA01557_00-ASIA000000000027/1578121395000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000"
+    },
+    {
+        "index": 197,
+        "name": "Tsukiyomi Picaro",
+        "arcana": "Moon",
+        "level": 55,
+        "stats": [41, 35, 36, 40, 20],
+        "elems": ["rs", "-", "-", "-", "-", "-", "-", "wk", "rs", "rp"],
+        "image": "https://store.playstation.com/store/api/chihiro/00_09_000/container/SG/en/999/JP0005-CUSA01557_00-ASIA000000000027/1578121395000/image?w=240&h=240&bg_color=000000&opacity=100&_version=00_09_000"
+    },
+    {
+        "index": 198,
+        "name": "Unicorn",
+        "arcana": "Hierophant",
+        "level": 39,
+        "stats": [20, 27, 25, 28, 24],
+        "elems": ["-", "-", "-", "nu", "-", "-", "rs", "-", "nu", "wk"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/5/53/UnicornSMT.jpg/revision/latest/scale-to-width-down/340?cb=20080801225707"
+    },
+    {
+        "index": 199,
+        "name": "Uriel",
+        "arcana": "Justice",
+        "level": 81,
+        "stats": [50, 54, 49, 55, 42],
+        "elems": ["-", "-", "nu", "-", "-", "-", "-", "ab", "rp", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/c/c9/UrielSMT2.jpg/revision/latest/scale-to-width-down/340?cb=20080807182904"
+    },
+    {
+        "index": 200,
+        "name": "Valkyrie",
+        "arcana": "Strength",
+        "level": 44,
+        "stats": [33, 24, 28, 29, 25],
+        "elems": ["-", "rs", "-", "-", "-", "-", "-", "-", "nu", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/e/ef/SH_valkyrie.jpg/revision/latest/scale-to-width-down/340?cb=20190330161635"
+    },
+    {
+        "index": 201,
+        "name": "Vasuki",
+        "arcana": "Hanged Man",
+        "level": 68,
+        "stats": [41, 46, 45, 42, 37],
+        "elems": ["-", "-", "-", "nu", "nu", "-", "-", "-", "-", "wk"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/4/4e/Vasuki.jpg/revision/latest/scale-to-width-down/340?cb=20190328180155"
+    },
+    {
+        "index": 202,
+        "name": "Vishnu",
+        "arcana": "Fool",
+        "level": 83,
+        "stats": [56, 51, 49, 57, 43],
+        "elems": ["-", "-", "wk", "ab", "-", "-", "-", "-", "nu", "nu"],
+        "image": "https://img2.freepng.es/20180405/vwe/kisspng-persona-2-innocent-sin-persona-5-shiva-persona-2-vishnu-5ac5c9cb8f6ab3.8970030115229116915874.jpg"
+    },
+    {
+        "index": 203,
+        "name": "White Rider",
+        "arcana": "Chariot",
+        "level": 39,
+        "stats": [24, 24, 25, 26, 25],
+        "elems": ["-", "-", "nu", "wk", "-", "-", "-", "-", "nu", "rp"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/5/50/White_Rider.jpg/revision/latest/scale-to-width-down/340?cb=20080615025353"
+    },
+    {
+        "index": 204,
+        "name": "Yaksini",
+        "arcana": "Empress",
+        "level": 20,
+        "stats": [14, 11, 13, 16, 13],
+        "elems": ["-", "-", "-", "rs", "-", "-", "-", "wk", "-", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/c/c5/YaksiniSMT.jpg/revision/latest/scale-to-width-down/340?cb=20080803032645"
+    },
+    {
+        "index": 205,
+        "name": "Yamata-no-Orochi",
+        "arcana": "Judgement",
+        "level": 64,
+        "stats": [44, 38, 48, 36, 33],
+        "elems": ["-", "-", "-", "nu", "-", "-", "-", "wk", "-", "rs"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/e/e9/OrochiSMT.jpg/revision/latest/scale-to-width-down/340?cb=20080707013133"
+    },
+    {
+        "index": 206,
+        "name": "Yatagarasu",
+        "arcana": "Sun",
+        "level": 57,
+        "stats": [35, 41, 30, 40, 32],
+        "elems": ["-", "-", "-", "-", "-", "rs", "-", "-", "nu", "wk"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/f/f4/YatagarasuSMT.jpg/revision/latest/scale-to-width-down/340?cb=20080801213815"
+    },
+    {
+        "index": 207,
+        "name": "Yoshitsune",
+        "arcana": "Tower",
+        "level": 79,
+        "stats": [58, 47, 45, 53, 41],
+        "elems": ["nu", "-", "rs", "-", "rp", "-", "-", "-", "rp", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/0/0e/P4-Yoshitsune.png/revision/latest/scale-to-width-down/340?cb=20190328155155"
+    },
+    {
+        "index": 208,
+        "name": "Yurlungur",
+        "arcana": "Sun",
+        "level": 42,
+        "stats": [26, 29, 28, 27, 23],
+        "elems": ["-", "-", "-", "-", "nu", "-", "wk", "-", "rs", "-"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/4/41/Yurlungur.jpg/revision/latest/scale-to-width-down/340?cb=20190328184819"
+    },
+    {
+        "index": 209,
+        "name": "Zaou-Gongen",
+        "arcana": "Strength",
+        "level": 80,
+        "stats": [57, 45, 50, 56, 39],
+        "elems": ["-", "-", "rp", "-", "wk", "-", "-", "-", "nu", "nu"],
+        "image": "https://vignette.wikia.nocookie.net/megamitensei/images/3/3c/Zaou_Gongen.jpg/revision/latest/scale-to-width-down/340?cb=20190328225038"
+    },
+    {
+        "index": 210,
+        "name": "Zouchouten",
+        "arcana": "Strength",
+        "level": 31,
+        "stats": [22, 19, 24, 18, 17],
+        "elems": ["rs", "-", "-", "-", "-", "wk", "-", "-", "-", "-"],
+        "image": "https://gamepedia.cursecdn.com/dx2shinmegamitensei_gamepedia_en/thumb/1/1a/Zouchouten.png/1200px-Zouchouten.png"
+    }
+]
